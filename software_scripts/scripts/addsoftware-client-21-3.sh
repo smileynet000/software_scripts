@@ -21,7 +21,7 @@ sleep 11
 
 echo flatpaks...
 sudo flatpak install org.gimp.GIMP com.obsproject.Studio org.inkscape.Inkscape us.zoom.Zoom
-sudo flatpak install …github.shiftey.Desktop io.github.slgobinath.SafeEyes org.linux_hardware.hw-probe
+sudo flatpak install io.github.shiftey.Desktop io.github.slgobinath.SafeEyes org.linux_hardware.hw-probe
 echo
 sleep 11
 
